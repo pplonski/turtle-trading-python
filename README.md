@@ -80,7 +80,7 @@ Created new window in existing browser session.
 There will be window opened in your browser to show backtest results. Similar to the backtest below:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/default_backtest.png" width=450 />
+<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/default_backtest.png" width=650 />
 </p>
 
 The green lines are showing profitable positions, whereas black lines are for loss positions.
@@ -97,9 +97,10 @@ I'm considering writing a more advanced tutorial about using turtle trading on c
 The example of tuned long strategy on BTC/USDT data:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/advanced_backtest.png" width=450 />
+<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/advanced_backtest.png" width=650 />
 </p>
 
+The advanced strategy from initial capital 1000.0 ends with capital 10849.45, with success rate 0.4772.
 
 [Please notify me when it will be ready and get 20% off!](https://forms.gle/3eXGqSGXeotS3h6g9)
 
