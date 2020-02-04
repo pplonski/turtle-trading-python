@@ -100,7 +100,7 @@ The example of tuned long strategy on BTC/USDT data:
 <img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/advanced_backtest.png" width=650 />
 </p>
 
-The advanced strategy from initial capital 1000.0 ends with capital 10849.45, with success rate 0.4772.
+The advanced strategy from initial capital 1,000.0 ends with capital 10,849.45, with success rate 0.4772.
 
 [Please notify me when it will be ready and get 20% off!](https://forms.gle/3eXGqSGXeotS3h6g9)
 
