@@ -8,7 +8,7 @@ This is a backtest of turtle trading algorithm on cryptocurrency data in python.
  - The example backtest is running on BTC/USDT pair (the data obtained from Binance on 2020-02-04).
  - You can easily change the backtest to run with ETH/USDT data (also from 2020-02-04).
  - The data is already provided in `data` directory
-
+ - I have used cryptocurrency data because it was easy to obtain. What is more, the automatic live trading with bot will be easy because setting account and obtaining API is also easy (without initial capital constraints).
 
 ### Requirements
 
@@ -80,5 +80,29 @@ Created new window in existing browser session.
 There will be window opened in your browser to show backtest results. Similar to the backtest below:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pplonski/turtle-trainding-python/master/misc/default_backtest.png" width=450 />
+<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/default_backtest.png" width=450 />
 </p>
+
+The green lines are showing profitable positions, whereas black lines are for loss positions.
+
+### Advanced Turtle Trading
+
+I'm considering writing a more advanced tutorial about using turtle trading on cryptocurrency data in Python. The tutorial will cover:
+
+ - How to get historical and live data from Binance with their API.
+ - How to backtest long and short strategy with Turtle Trading Algorithm.
+ - How to create long and short strategy for live trading.
+ - How to tune Turtle Trading Algorithm for better performance.
+
+The example of tuned long strategy on BTC/USDT data:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pplonski/turtle-trading-python/master/misc/advanced_backtest.png" width=450 />
+</p>
+
+
+[Please notify me when it will be ready and get 20% off!](https://forms.gle/3eXGqSGXeotS3h6g9)
+
+#### Cross-selling
+
+You can also check my previously written tutorial: [How to deploy machine learning models with Django](https://deploymachinelearning.com)
